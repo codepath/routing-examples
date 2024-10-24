@@ -1,0 +1,20 @@
+#root {
+  margin: 0 auto;
+  padding: 2px;
+  text-align: center;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 15px;
+  top: 0;
+  justify-content: center;
+}
+
+.tab {
+  display: inline-block;
+  margin-left: 75px;
+}
